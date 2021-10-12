@@ -81,7 +81,7 @@ public class CubesTower {
             }
         }
 
-        for (int i = 0; i < this.cubesAmount;i++) {
+        for (int i = 0; i < this.cubes.length;i++) {
             removeTopCube();
         }
 

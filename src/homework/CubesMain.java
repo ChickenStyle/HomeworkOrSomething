@@ -37,7 +37,10 @@ public class CubesMain {
 
         }
 
-        System.out.println(tower.buildNewTower());
+
+        CubesTower newTower = tower.buildNewTower();
+        System.out.println(newTower);
+        System.out.println(tower);
 
     }
 
