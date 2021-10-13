@@ -1,4 +1,4 @@
-package homework;
+package homework.cube;
 
 public class Cube {
 
